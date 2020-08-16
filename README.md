@@ -28,7 +28,14 @@ This infographic shows the reccurent themes in mentions of all 2016 US Primary C
 
 > This chart was made using Canva. The data was found via a pivot table with  had _columns_ set to 'theme', _rows_ set to 'album_release_date', and _values_ set to 'Count of candidate'. 
 
-### Analysis:
+## Changes in Sentiments Towards Trump by Theme
+> To look closer at how themes in mentions of Trump of have changed, I created another pivot table, this time with _filter_ set to 'candidate' and 'sentiment', _legend_ set to 'theme', _rows_ set to 'album_release_date', and _values_ set to 'Count of candidate'. From here, I filtered 'candidate' to show only Donald Trump, and 'sentiment' to show only positive mentions of Trump.
+
+The result is this chart, which shows positive mentions of Trump by theme:
+
+![Positive Mentions of Trump by Theme](https://media.journalism.berkeley.edu/upload/2020/08/1597609399bf9b6b2.png)
+
+Again, we can see that positive mentions of Trump in hip hop lyrics mostly referred to Trump's money and hotel, which supports my earlier theory that prior to Trump's announcement of his presidential campaign, the media was mostly focused on his wealth. Post-2015, we can see dramatic drop in positive references to his wealth and power. 
 
 
 
