@@ -1,7 +1,7 @@
 # Hip Hop Lyric Mentions of 2016 US Primary Candidates
 Project by Nanditha Nair
 
-This dataset shows the number of mentions of 2016 US primary candidates in hip hop songs. It includes not only the number of mentions for each candidate for every year from 1989 to 2016, but also the sentiment towards the candidate in each mention (either positive, neutral, or negative) as well as the theme of the mention. This dataset is fascinating because it can be used to display evolving sentiments towards candidates in 
+This dataset shows the number of mentions of 2016 US primary candidates in hip hop songs. It includes not only the number of mentions for each candidate for every year from 1989 to 2016, but also the sentiment towards the candidate in each mention (either positive, neutral, or negative) as well as the theme of the mention. This dataset is fascinating because it can be used to display evolving sentiments towards candidates in the hip hop scene.
 
 ## Dataset Source and Data Cleaning / Formatting:
 The data used in this project is available in this repository, named ['hiphopcandidate.csv'](). It was sourced from the [FiveThirtyEight Repository](https://github.com/fivethirtyeight). FiveThirtyEight has published its [own analysis of this dataset](https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/), which varies from this one its focus. 
