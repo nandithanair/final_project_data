@@ -11,7 +11,7 @@ To get into a usable format, the album year column had to be reformatted. This c
 Data Visualisation 1:
 This stacked bar chart captures trends in sentiments over time in mentions of Donald Trump in hip hop lyrics. 
 
-! [alt text](dataviz1.png)
+![Changes in Sentiments Towards Trump in Hip Hop Lyric Mentions](https://media.journalism.berkeley.edu/upload/2020/08/1597604092f96cd0d.png)
 
 > It was created by making a pivot table. This pivot table had filter set to candidate, columns set to sentiment, rows set to album_release_date, and values set to Count of candidate. From here, I filtered the candidate section to display only results for mentions of Donald Trump, to get a pivot table displaying counts of positive, neutral, and negative mentions of Trump for each year. 
 This data was then used to create the data visualisation shown above.
