@@ -26,7 +26,7 @@ This infographic shows the reccurent themes in mentions of all 2016 US Primary C
 
 ![Recurrent Themes in Hip Hop Mentions](https://media.journalism.berkeley.edu/upload/2020/08/1597608269940fee7.png)
 
-> This chart was made using Canva. The data was found via a pivot table with  had _columns_ set to 'theme', _rows_ set to 'album_release_date', and _values_ set to 'Count of candidate'. 
+> This chart was made using Canva. The data was found via a pivot table which  had _columns_ set to 'theme', _rows_ set to 'album_release_date', and _values_ set to 'Count of candidate'. 
 
 ## Changes in Sentiments Towards Trump by Theme
 > To look closer at how themes in mentions of Trump of have changed, I created another pivot table, this time with _filter_ set to 'candidate' and 'sentiment', _legend_ set to 'theme', _rows_ set to 'album_release_date', and _values_ set to 'Count of candidate'. From here, I filtered 'candidate' to show only Donald Trump, and 'sentiment' to show only positive mentions of Trump.
