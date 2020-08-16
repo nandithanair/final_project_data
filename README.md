@@ -35,7 +35,7 @@ The result is this chart, which shows positive mentions of Trump by theme:
 
 ![Positive Mentions of Trump by Theme](https://media.journalism.berkeley.edu/upload/2020/08/1597609399bf9b6b2.png)
 
-Again, we can see that positive mentions of Trump in hip hop lyrics mostly referred to Trump's money and hotel, which supports my earlier theory that prior to Trump's announcement of his presidential campaign, the media was mostly focused on his wealth. Post-2015, we can see dramatic drop in positive references to his wealth and power. 
+Again, we can see that positive mentions of Trump in hip hop lyrics mostly referred to Trump's money and hotel, which supports my earlier theory that prior to Trump's announcement of his presidential campaign, Trump benefited from an overall positive image thanks to the media's focus on his welath. Post-2015, we can see dramatic drop in references to his wealth and power, and a drop in positive references in general. 
 
 
 
